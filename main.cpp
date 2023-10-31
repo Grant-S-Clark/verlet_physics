@@ -47,7 +47,6 @@ int main()
                 window.setFramerateLimit(60);
         }
 
-        // Make objects with space key
         if (true)
             sim.create_obj();
         
